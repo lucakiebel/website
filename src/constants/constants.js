@@ -54,6 +54,7 @@ export const projects = [
     title: "Nibyou",
     description: "Nibyou is developing practice software for the nutritional therapy market, with the help of which experts (dieticians, ecotrophologists, nutrition doctors and nutritionists) and patients can exchange current and past health data with each other securely and end-to-end encrypted.",
     source: "https://github.com/nibyou",
+    visit: "https://nibyou.com",
     tags: ["NodeJS", "MongoDB", "E2EE"],
     image: "https://content.luca-kiebel.de/websites/nibyou.de/img/NIBYOU_icon_-_digital.png"
   }
