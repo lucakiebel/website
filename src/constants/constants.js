@@ -8,14 +8,6 @@ export const projects = [
     visit: 'https://warframe.com'
   },
   {
-    title: "ComBauen",
-    description: "ComBauen is a Free2Play solo-player game. In ComBauen you play a robot named Admin, in search for computer parts to build a server and run the Matrix on it, to revenge the death of Admin's father and restore their family's reputation.",
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/img/ComBauen.png",
-    tags: ["Java", "BlueJ", "School-Project", "Game"],
-    source: "https://github.com/lucakiebel/combauen",
-    visit: ""
-  },
-  {
     title: "Star Wars Error Pages",
     description: "Star Wars Error Pages are a fun, user friendly and smart way to show your customers that they went down a path that you can't follow, that these are not the sites they were looking for or some other bad Star Wars themed pun.",
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/img/SW-Error.jpeg",
@@ -58,6 +50,13 @@ export const projects = [
     tags: ["NodeJS", "FetchAPI"],
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/img/Warframe.js.logo.png"
   },
+  {
+    title: "Nibyou",
+    description: "Nibyou is developing practice software for the nutritional therapy market, with the help of which experts (dieticians, ecotrophologists, nutrition doctors and nutritionists) and patients can exchange current and past health data with each other securely and end-to-end encrypted.",
+    source: "https://github.com/nibyou",
+    tags: ["NodeJS", "MongoDB", "E2EE"],
+    image: "https://content.luca-kiebel.de/websites/nibyou.de/img/NIBYOU_icon_-_digital.png"
+  }
 ];
 
 export const TimeLineData = [
