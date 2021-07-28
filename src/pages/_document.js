@@ -37,6 +37,19 @@ export default class MyDocument extends Document {
           <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
           <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
           <link rel="manifest" href="/favicons/site.webmanifest" />
+          <meta name="title" content="Luca Kiebel" />
+          <meta name="description" content="Portfolio Website for Luca Kiebel. Luca Kiebel is the CTO at Nibyou and an IT Consultant for Digitalization and Process Optimization at XenonCloud. Learn more about his current and previous Pojects." />
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content="https://luca-kiebel.de/" />
+          <meta property="og:title" content="Luca Kiebel" />
+          <meta property="og:description" content="Portfolio Website for Luca Kiebel. Luca Kiebel is the CTO at Nibyou and an IT Consultant for Digitalization and Process Optimization at XenonCloud. Learn more about his current and previous Pojects." />
+          <meta property="og:image" content="https://content.luca-kiebel.de/websites/luca-kiebel.de/img/favicon.png" />
+          <meta property="twitter:card" content="summary_large_image" />
+          <meta property="twitter:url" content="https://luca-kiebel.de/" />
+          <meta property="twitter:title" content="Luca Kiebel" />
+          <meta property="twitter:description" content="Portfolio Website for Luca Kiebel. Luca Kiebel is the CTO at Nibyou and an IT Consultant for Digitalization and Process Optimization at XenonCloud. Learn more about his current and previous Pojects." />
+          <meta property="twitter:image" content="https://content.luca-kiebel.de/websites/luca-kiebel.de/img/favicon.png" />
+
         </Head>
         <body>
           <Main />
