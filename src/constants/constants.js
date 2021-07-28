@@ -10,7 +10,7 @@ export const projects = [
   {
     title: "Star Wars Error Pages",
     description: "Star Wars Error Pages are a fun, user friendly and smart way to show your customers that they went down a path that you can't follow, that these are not the sites they were looking for or some other bad Star Wars themed pun.",
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/sw-error.png",
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/sw-error.jpeg",
     tags: ["PHP", "JS", "ApacheConf"],
     source: "https://github.com/lucakiebel/star-wars-error-js",
     visit: "https://luca-kiebel.de/sw-demo"
