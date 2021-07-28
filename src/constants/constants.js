@@ -10,7 +10,7 @@ export const projects = [
   {
     title: "Star Wars Error Pages",
     description: "Star Wars Error Pages are a fun, user friendly and smart way to show your customers that they went down a path that you can't follow, that these are not the sites they were looking for or some other bad Star Wars themed pun.",
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/sw-error.jpeg",
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/sw-error.png",
     tags: ["PHP", "JS", "ApacheConf"],
     source: "https://github.com/lucakiebel/star-wars-error-js",
     visit: "https://luca-kiebel.de/sw-demo"
@@ -34,7 +34,7 @@ export const projects = [
     description: "ListX is a free tool to create and maintain Lists for every occasion. Whether it's for your monthly groceries or for the next big vacation - we've got you covered!",
     source: "https://github.com/lucakiebel/ListX",
     tags: ["NodeJS", "angular.js"],
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/listx.gif"
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/listx.png"
   },
   {
     title: "Rocketeers Webshop",
