@@ -93,9 +93,7 @@ export const CarouselItemImg = styled.svg`
   width: 100%;
 
   @media ${props => props.theme.breakpoints.sm} {
-    -webkit-mask-image: none;
-    margin-left: 16px;
-    overflow: visible;
+    display: none;
   }
 `
 

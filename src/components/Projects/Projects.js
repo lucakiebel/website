@@ -30,6 +30,11 @@ const Projects = () => (
                 })}
               </TagList>
             </div>
+            <div>
+              <br />
+              <TitleContent>Luca's Position</TitleContent>
+              <CardInfo>{p.position}</CardInfo>
+            </div>
             <UtilityList>
               {p.visit && <ExternalLinks href={p.visit}>Visit</ExternalLinks>}
               {p.source && <ExternalLinks href={p.source}>Source</ExternalLinks>}

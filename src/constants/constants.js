@@ -5,7 +5,8 @@ export const projects = [
     image: 'https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/warframe.png',
     tags: ["C#.NET", 'PHP', 'Lua'],
     source: '',
-    visit: 'https://warframe.com'
+    visit: 'https://warframe.com',
+    position: "Localization"
   },
   {
     title: "Star Wars Error Pages",
@@ -13,7 +14,8 @@ export const projects = [
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/sw-error.png",
     tags: ["PHP", "JS", "ApacheConf"],
     source: "https://github.com/lucakiebel/star-wars-error-js",
-    visit: "https://luca-kiebel.de/sw-demo"
+    visit: "https://luca-kiebel.de/sw-demo",
+    position: "Developer"
   },
   {
     title: "HBBK API",
@@ -21,34 +23,39 @@ export const projects = [
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/hbbk.png",
     tags: ["PHP", "School-Project"],
     source: "https://github.com/lucakiebel/HBBK_API",
+    position: "Developer"
   },
   {
     title: "LamPi",
     description: "A team of students from Luca's school developed OSS (Open Source Software) under various project names, all Raspberry Pis as a base and present the projects at their school and to visitors of the OpenRheinRuhr in Oberhausen! Luca's team's project is based around moving small vehicles through obstacle courses and controlling them with your smartphone.",
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/lampi.png",
     tags: ["NodeJS", "Python", "School-Project"],
-    source: "https://github.com/lucakiebel/lampi"
+    source: "https://github.com/lucakiebel/lampi",
+    position: "Server Stack Developer"
   },
   {
     title: "ListX",
     description: "ListX is a free tool to create and maintain Lists for every occasion. Whether it's for your monthly groceries or for the next big vacation - we've got you covered!",
     source: "https://github.com/lucakiebel/ListX",
     tags: ["NodeJS", "angular.js"],
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/listx.png"
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/listx.png",
+    position: "Developer"
   },
   {
     title: "Rocketeers Webshop",
     description: "Webshop for Rocketeers GbR, a German company selling original, hawaiian-made Hawaii shirts.",
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/rocketeers.png",
     tags: ["PHP", "Shopware"],
-    visit: "https://rocketeers.de"
+    visit: "https://rocketeers.de",
+    position: "Consultant, Developer"
   },
   {
     title: "Warframe.js",
     description: "Warframe.js is a Wrapper for Warframe's WorldState API. You can utilize Warframe.js to add a widget to your website for any public data from Warframe. ",
     source: "https://github.com/lucakiebel/Warframe.js",
     tags: ["NodeJS", "FetchAPI"],
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/wf.js.png"
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/wf.js.png",
+    position: "Developer"
   },
   {
     title: "Nibyou",
@@ -56,7 +63,8 @@ export const projects = [
     source: "https://github.com/nibyou",
     visit: "https://nibyou.com",
     tags: ["NodeJS", "MongoDB", "E2EE"],
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/nibyou.png"
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/nibyou.png",
+    position: "CTO"
   }
 ];
 
