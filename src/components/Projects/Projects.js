@@ -33,7 +33,11 @@ const Projects = () => (
             <div>
               <br />
               <TitleContent>Luca's Position</TitleContent>
-              <CardInfo>{p.position}</CardInfo>
+              <TagList>
+                {p.position.map((t,i) => {
+                  return <Tag key={i}>{t}</Tag>
+                })}
+              </TagList>
             </div>
             <UtilityList>
               {p.visit && <ExternalLinks href={p.visit}>Visit</ExternalLinks>}

@@ -6,7 +6,7 @@ export const projects = [
     tags: ["C#.NET", 'PHP', 'Lua'],
     source: '',
     visit: 'https://warframe.com',
-    position: "Localization"
+    position: ["Localization"]
   },
   {
     title: "Star Wars Error Pages",
@@ -15,7 +15,7 @@ export const projects = [
     tags: ["PHP", "JS", "ApacheConf"],
     source: "https://github.com/lucakiebel/star-wars-error-js",
     visit: "https://luca-kiebel.de/sw-demo",
-    position: "Developer"
+    position: ["Developer"]
   },
   {
     title: "HBBK API",
@@ -23,7 +23,7 @@ export const projects = [
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/hbbk.png",
     tags: ["PHP", "School-Project"],
     source: "https://github.com/lucakiebel/HBBK_API",
-    position: "Developer"
+    position: ["Developer"]
   },
   {
     title: "LamPi",
@@ -31,7 +31,7 @@ export const projects = [
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/lampi.png",
     tags: ["NodeJS", "Python", "School-Project"],
     source: "https://github.com/lucakiebel/lampi",
-    position: "Server Stack Developer"
+    position: ["Server Stack Developer"]
   },
   {
     title: "ListX",
@@ -39,7 +39,7 @@ export const projects = [
     source: "https://github.com/lucakiebel/ListX",
     tags: ["NodeJS", "angular.js"],
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/listx.png",
-    position: "Developer"
+    position: ["Developer"]
   },
   {
     title: "Rocketeers Webshop",
@@ -47,7 +47,7 @@ export const projects = [
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/rocketeers.png",
     tags: ["PHP", "Shopware"],
     visit: "https://rocketeers.de",
-    position: "Consultant, Developer"
+    position: ["Consultant", "Developer"]
   },
   {
     title: "Warframe.js",
@@ -55,7 +55,7 @@ export const projects = [
     source: "https://github.com/lucakiebel/Warframe.js",
     tags: ["NodeJS", "FetchAPI"],
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/wf.js.png",
-    position: "Developer"
+    position: ["Developer"]
   },
   {
     title: "Nibyou",
@@ -64,7 +64,7 @@ export const projects = [
     visit: "https://nibyou.com",
     tags: ["NodeJS", "MongoDB", "E2EE"],
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/nibyou.png",
-    position: "CTO"
+    position: ["CTO"]
   }
 ];
 
