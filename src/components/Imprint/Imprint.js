@@ -7,14 +7,14 @@ const Imprint = () => {
     return(
     <div>
     <Section>
-        <SectionTitle>Imprint</SectionTitle>
+        <SectionTitle>Impressum – Legal Notice</SectionTitle>
         <SectionSubText>Information in accordance with section 5 TMG</SectionSubText>
         <SectionDivider />
         <SectionText>
         <br />
             Luca Kiebel<br />
-            Gremmendorfer Weg 55<br />
-            48167 Münster<br />
+            Graupenstraße 7<br />
+            38678 Clausthal-Zellerfeld<br />
             Germany
         </SectionText>
         <SectionText>

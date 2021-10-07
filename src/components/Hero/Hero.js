@@ -13,7 +13,7 @@ const Hero = (props) => (
           Luca Kiebel
         </SectionTitle>
         <SectionText>
-        Luca is the CTO at <a href="https://nibyou.com">Nibyou</a> and an IT Consultant for Digitalization and Process Optimization at <a href="https://xenoncloud.net">XenonCloud</a>.
+        CTO at <a href="https://nibyou.com">Nibyou</a>, IT Consultant at <a href="https://xenoncloud.net">XenonCloud</a>.
         </SectionText>
       </LeftSection>
     </Section>
