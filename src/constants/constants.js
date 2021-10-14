@@ -20,7 +20,7 @@ export const projects = [
   {
     title: "HBBK API",
     description: "An API to interface with the not-so-user-friendly timetable application my school uses. Exploits some bugs in the software to grant \"teacher access\" to more detailed timetables.",
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/hbbk.png",
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/hbbk.jpg",
     tags: ["PHP", "School-Project"],
     source: "https://github.com/lucakiebel/HBBK_API",
     position: ["Developer"]
@@ -28,7 +28,7 @@ export const projects = [
   {
     title: "LamPi",
     description: "A team of students from Luca's school developed OSS (Open Source Software) under various project names, all Raspberry Pis as a base and present the projects at their school and to visitors of the OpenRheinRuhr in Oberhausen! Luca's team's project is based around moving small vehicles through obstacle courses and controlling them with your smartphone.",
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/lampi.png",
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/lampi.jpg",
     tags: ["NodeJS", "Python", "School-Project"],
     source: "https://github.com/lucakiebel/lampi",
     position: ["Server Stack Developer"]
