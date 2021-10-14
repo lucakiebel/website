@@ -22,7 +22,7 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>&copy; 2021 Luca Kiebel</Slogan>
-          <Slogan><Link href="/imprint">Impressum – Legal Notice</Link></Slogan>
+          <Slogan><Link href="/legal-notice">Impressum – Legal Notice</Link></Slogan>
         
         </CompanyContainer>
         <SocialContainer>
