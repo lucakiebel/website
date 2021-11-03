@@ -62,10 +62,18 @@ export const projects = [
     description: "Nibyou is developing practice software for the nutritional therapy market, with the help of which experts (dieticians, ecotrophologists, nutrition doctors and nutritionists) and patients can exchange current and past health data with each other securely and end-to-end encrypted.",
     source: "https://github.com/nibyou",
     visit: "https://nibyou.com",
-    tags: ["NodeJS", "MongoDB", "E2EE"],
+    tags: ["NodeJS", "PostgreSQL", "E2EE", "Cloudflare Workers"],
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/nibyou.png",
     position: ["CTO"]
-  }
+  },
+   {
+     title: "K&B Software Solutions",
+     description:"K&B Software Solutions is the development company behind Nibyou. K&B is developing cloud-based software that securely connects people in healthcare applications.",
+     visit: "https://k-b.dev",
+     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/kbss.jpg",
+     position:["CEO"],
+     tags: ["NodeJS"]
+   }
 ];
 
 export const TimeLineData = [
