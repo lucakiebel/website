@@ -12,8 +12,13 @@ const Imprint = () => {
         <SectionDivider />
         <SectionText>
         <br />
-            Luca Kiebel<br />
-            Graupenstraße 7<br />
+            Luca Kiebel Softwareentwicklung
+        </SectionText>
+        <SectionSubText>
+            Legal Headquarters
+        </SectionSubText>
+        <SectionText>
+        Graupenstraße 7<br />
             38678 Clausthal-Zellerfeld<br />
             Germany
         </SectionText>
