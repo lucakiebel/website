@@ -30,6 +30,7 @@ const Imprint = () => {
             <SubSectionTitle>Persons responsible for content in accordance with setion 18 Abs. 2 MStV:</SubSectionTitle> <br />
             Luca Kiebel
         </SectionText>
+        <SectionSubText>This Legal Notice also applies to <LinkItem href="https://luca.lk">https://luca.lk</LinkItem>.</SectionSubText>
     </Section>
     <Section>
         <SectionTitle>Disclaimer</SectionTitle>
