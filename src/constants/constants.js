@@ -64,14 +64,14 @@ export const projects = [
     visit: "https://nibyou.com",
     tags: ["NodeJS", "PostgreSQL", "E2EE", "Cloudflare Workers"],
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/nibyou.png",
-    position: ["CTO"]
+    position: ["CTO", "Co-Founder"]
   },
    {
      title: "K&B Software Solutions",
      description:"K&B Software Solutions is the development company behind Nibyou. K&B is developing cloud-based software that securely connects people in healthcare applications.",
      visit: "https://k-b.dev",
      image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/kbss.jpg",
-     position:["CEO"],
+     position:["CEO", "Founder"],
      tags: ["NodeJS"]
    }
 ];
