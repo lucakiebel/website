@@ -81,5 +81,5 @@ export const TimeLineData = [
   { year: 2018, text: 'Abitur in Maths and Computer Science. Started Studying CS at Clausthal Institute of Technology', },
   { year: 2019, text: 'Began working for XenonCloud GmbH & Co. KG', },
   { year: 2020, text: 'Projects with three big players in Engineering and Network Hardware', },
-  { year: 2021, text: 'Became CTO at Nibyou. Switched University to University of Hagen.', },
+  { year: 2021, text: 'Became CTO at Nibyou. Founded K&B Software Solutions.', },
 ];
