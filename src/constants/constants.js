@@ -58,6 +58,30 @@ export const projects = [
     position: ["Developer"]
   },
   {
+    title: "lucakiebel/szAuto",
+    description: "Remote controlled car that returns to the starting point at the press of a button.",
+    source: "https://github.com/lucakiebel/szAuto",
+    tags: ["Python", "C", "Assembler", "Atmega2560"],
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/szauto.jpg",
+    position: ["Developer", "Student"]
+  },
+  {
+    title: "jwtauth.go",
+    description: "jwtauth.go is a simple, yet powerful, JWT authentication server for Go. It's designed to be used in a single-server environment, but can be used in a multi-server environment as well.",
+    source: "https://github.com/lucakiebel/jwtauth.go",
+    tags: ["Go", "JWT", "microservice"],
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/jwt.jpg",
+    position: ["Developer"]
+  },
+  {
+    title: "nibyou/pki",
+    description: "RSA Public Key Server for key exchange used for symmetric encrypted communication.",
+    source: "https://github.com/nibyou/pki",
+    tags: ["NodeJS (Webpack)", "Cloudflare Workers", "Workers KV", "microservice"],
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/pki.jpg",
+    position: ["CTO", "Developer"]
+  },
+  {
     title: "Nibyou",
     description: "Nibyou is developing practice software for the nutritional therapy market, with the help of which experts (dieticians, ecotrophologists, nutrition doctors and nutritionists) and patients can exchange current and past health data with each other securely and end-to-end encrypted.",
     source: "https://github.com/nibyou",
