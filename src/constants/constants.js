@@ -37,6 +37,7 @@ export const projects = [
     title: "ListX",
     description: "ListX is a free tool to create and maintain Lists for every occasion. Whether it's for your monthly groceries or for the next big vacation - we've got you covered!",
     source: "https://github.com/lucakiebel/ListX",
+    visit:"https://web.archive.org/web/20180902045940/https://listx.io",
     tags: ["NodeJS", "angular.js"],
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/listx.png",
     position: ["Developer"]
@@ -77,7 +78,7 @@ export const projects = [
     title: "nibyou/pki",
     description: "RSA Public Key Server for key exchange used for symmetric encrypted communication.",
     source: "https://github.com/nibyou/pki",
-    tags: ["NodeJS (Webpack)", "Cloudflare Workers", "Workers KV", "microservice"],
+    tags: ["NodeJS", "microservice"],
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/pki.jpg",
     position: ["CTO", "Developer"]
   },
