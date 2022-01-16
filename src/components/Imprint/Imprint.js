@@ -23,7 +23,7 @@ const Imprint = () => {
             Germany
         </SectionText>
         <SectionText>
-            Telephone: <LinkItem href="tel:004925354639896">+49-2535-463-989-6</LinkItem> <br />
+            Telephone: <LinkItem href="tel:004925192873030">+49-251-9287-303-0</LinkItem> <br />
             Email: <LinkItem href="mailto:domains@luca-kiebel.de">domains@luca-kiebel.de</LinkItem>
         </SectionText>
         <SectionText>
