@@ -92,13 +92,21 @@ export const projects = [
     position: ["CTO", "Co-Founder"]
   },
    {
-     title: "K&B Software Solutions",
-     description:"K&B Software Solutions is the development company behind Nibyou. K&B is developing cloud-based software that securely connects people in healthcare applications.",
-     visit: "https://k-b.dev",
-     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/kbss.jpg",
-     position:["CEO", "Founder"],
-     tags: ["NodeJS"]
-   }
+     title: "adesso Financial Platform",
+     description: "The adesso financial platform (afp) is the platform for the financial sector. The solution is based on state-of-the-art software architecture and offers extensive options to optimally design core functions and processes for users. Ready-made building blocks enable individual ‘out-of-the-box’ use.",
+     visit: "https://www.adesso.de/en/adesso-branch-solutions/banken-finanzdienstleister/leistungen/adesso-financial-platform/index.jsp",
+     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/afp.jpg",
+     position:["Software Developer"],
+     tags: ["Java", "Spring", "eclipse-rcp"]
+   },
+  {
+    title: "Run this place",
+    description: "Run this place is a comprehensive and smart digital office ecosystem by Union Investment Retail Digital - from finding a parking space to organizing lunch breaks to booking rooms: classic work routines are digitized and simplified by the app.",
+    visit: "https://run-this-place.com",
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/rtp.png",
+    position: ["Software Developer (via adesso)"],
+    tags: ["NestJS", "TypeScript", "PostgreSQL", "GraphQL"]
+  }
 ];
 
 export const TimeLineData = [
@@ -106,5 +114,6 @@ export const TimeLineData = [
   { year: 2018, text: 'Abitur in Maths and Computer Science. Started Studying CS at Clausthal Institute of Technology', },
   { year: 2019, text: 'Began working for XenonCloud GmbH & Co. KG', },
   { year: 2020, text: 'Projects with three big players in Engineering and Network Hardware', },
-  { year: 2021, text: 'Became CTO at Nibyou. Founded K&B Software Solutions.', },
+  { year: 2021, text: 'Became CTO and Co-Founder at Nibyou.', },
+  { year: 2022, text: 'Started as Software Developer at adesso SE' }
 ];
