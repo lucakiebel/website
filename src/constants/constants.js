@@ -103,7 +103,7 @@ export const projects = [
     title: "Run this place",
     description: "Run this place is a comprehensive and smart digital office ecosystem by Union Investment Retail Digital - from finding a parking space to organizing lunch breaks to booking rooms: classic work routines are digitized and simplified by the app.",
     visit: "https://run-this-place.com",
-    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/rtp.png",
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/rtp.jpg",
     position: ["Software Developer (via adesso)"],
     tags: ["NestJS", "TypeScript", "PostgreSQL", "GraphQL"]
   }
