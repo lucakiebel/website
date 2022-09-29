@@ -106,7 +106,23 @@ export const projects = [
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/rtp.jpg",
     position: ["Software Developer (via adesso)"],
     tags: ["NestJS", "TypeScript", "PostgreSQL", "GraphQL"]
-  }
+  },
+    {
+        title: "Audoora Core",
+        description: 'Audoora is a platform for audiologists to buy new hearing aids and spare parts. The platform is currently in development.',
+        visit: "https://audoora.de",
+        image: "https://audoora.de/wp-content/uploads/2021/03/cropped-Logo_colour_small-e1643304509567.png",
+        position: ["Head of App Development"],
+        tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js"]
+    },
+    {
+        title: "Audoora Deals",
+        description: 'Audoora Deals is an app for audiologists to find the best deals in the hearing aid world.',
+        visit: 'https://paff.app',
+        image: "https://audoora.de/wp-content/uploads/2021/03/cropped-Logo_colour_small-e1643304509567.png",
+        position: ["Head of App Development"],
+        tags: ["React Native", "NestJS", "TypeScript", "PostgreSQL"]
+    }
 ];
 
 export const TimeLineData = [
@@ -115,5 +131,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Began working for XenonCloud GmbH & Co. KG', },
   { year: 2020, text: 'Projects with three big players in Engineering and Network Hardware', },
   { year: 2021, text: 'Became CTO and Co-Founder at Nibyou.', },
-  { year: 2022, text: 'Started as Software Developer at adesso SE' }
+  { year: 2022, text: 'Worked as Software Developer at adesso SE, started working as Head of App Development at Audoora GmbH' }
 ];

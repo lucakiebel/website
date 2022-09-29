@@ -12,14 +12,14 @@ const Imprint = () => {
         <SectionDivider />
         <SectionText>
         <br />
-            Luca Kiebel Softwareentwicklung
+            Kiebel UG (haftungsbeschränkt) i.G.
         </SectionText>
         <SectionSubText>
             Legal Headquarters
         </SectionSubText>
         <SectionText>
-        Graupenstraße 7<br />
-            38678 Clausthal-Zellerfeld<br />
+        Jostesstraße 9<br />
+            48147 Münster<br />
             Germany
         </SectionText>
         <SectionText>
