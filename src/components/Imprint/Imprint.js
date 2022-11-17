@@ -12,7 +12,9 @@ const Imprint = () => {
         <SectionDivider />
         <SectionText>
         <br />
-            Kiebel UG (haftungsbeschränkt) i.G.
+            Kiebel UG (haftungsbeschränkt)<br />
+            Represented by the Managing Director:<br />
+            Luca Kiebel
         </SectionText>
         <SectionSubText>
             Legal Headquarters
