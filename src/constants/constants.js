@@ -129,7 +129,7 @@ export const projects = [
     visit: "https://audoora.de",
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/a-kpi.png",
     position: ["Software Engineer"],
-    tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "ERP", "MQTT", "ASEGO", "Amparex", "AkuWin"]
+    tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "ERP", "MQTT"]
   }
 ];
 
