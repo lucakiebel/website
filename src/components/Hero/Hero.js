@@ -13,7 +13,7 @@ const Hero = (props) => (
           Luca Kiebel
         </SectionTitle>
         <SectionText>
-        CTO at <a href="https://nibyou.com" target="_blank">Nibyou UG</a>, DPO &amp; IC at <a href="https://audoora.de" target="_blank">audoora GmbH</a>.
+        Road-Bike Racer at <a href="https://www.instagram.com/raceboys.ms" target="_blank">Raceboys MS</a>, Senior Software Engineer at <a href="https://adesso.de" target="_blank">adesso SE</a>
         </SectionText>
       </LeftSection>
     </Section>
