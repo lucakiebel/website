@@ -120,7 +120,7 @@ export const projects = [
         description: 'Audoora E-Invoices is a customer-facing service in the Audoora Console that allows our customers to receive EU-mandated electronic invoices in Faktur-X/ZUGFeRD/EN-16931 formats and handles automatic invoice creation for out Group Purchasing Organisation partners.',
         visit: 'https://audoora.de',
         image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/a-invoices.png",
-        position: ["Head of App Development"],
+        position: ["Software Engineer"],
         tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "EN-16931"]
     },
   {
