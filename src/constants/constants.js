@@ -104,32 +104,43 @@ export const projects = [
     description: "Run this place is a comprehensive and smart digital office ecosystem by Union Investment Retail Digital - from finding a parking space to organizing lunch breaks to booking rooms: classic work routines are digitized and simplified by the app.",
     visit: "https://run-this-place.com",
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/rtp.jpg",
-    position: ["Software Developer (via adesso)"],
+    position: ["Software Engineer (via adesso)"],
     tags: ["NestJS", "TypeScript", "PostgreSQL", "GraphQL"]
   },
     {
-        title: "Audoora Core",
-        description: 'Audoora is a platform for audiologists to buy new hearing aids and spare parts. The platform is currently in development.',
+        title: "Audoora Accounting",
+        description: 'Audoora Accounting is a service in the Audoora Console that handles client subscriptions for other services, including the creation of invoices, handling subscription revewals and making automatic payments through SEPA direct debit.',
         visit: "https://audoora.de",
-        image: "https://audoora.de/wp-content/uploads/2021/03/cropped-Logo_colour_small-e1643304509567.png",
-        position: ["Head of App Development"],
-        tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js"]
+        image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/a-accounting.png",
+        position: ["Software Engineer"],
+        tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "SEPA"]
     },
     {
-        title: "Audoora Deals",
-        description: 'Audoora Deals is an app for audiologists to find the best deals in the hearing aid world.',
-        visit: 'https://paff.app',
-        image: "https://audoora.de/wp-content/uploads/2021/03/cropped-Logo_colour_small-e1643304509567.png",
+        title: "Audoora E-Invoices",
+        description: 'Audoora E-Invoices is a customer-facing service in the Audoora Console that allows our customers to receive EU-mandated electronic invoices in Faktur-X/ZUGFeRD/EN-16931 formats and handles automatic invoice creation for out Group Purchasing Organisation partners.',
+        visit: 'https://audoora.de',
+        image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/a-invoices.png",
         position: ["Head of App Development"],
-        tags: ["React Native", "NestJS", "TypeScript", "PostgreSQL"]
-    }
+        tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "EN-16931"]
+    },
+  {
+    title: "Audoora KPI-Dashboard",
+    description: "Audiologists' ERP Systems allow for collecting a lot of data on the patients, but don't have any good ways of displaying the collected data to stakeholders. Audoora KPI-Dashboard is a service in the Audoora Console that allows for just that, KPI-analytics for the major ERP systems.",
+    visit: "https://audoora.de",
+    image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/a-kpi.png",
+    position: ["Software Engineer"],
+    tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "ERP", "MQTT", "ASEGO", "Amparex", "AkuWin"]
+  }
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'First Software Development Internship at Westfälische Provinzial Versicherung AG'},
-  { year: 2018, text: 'Abitur in Maths and Computer Science. Started Studying CS at Clausthal Institute of Technology', },
-  { year: 2019, text: 'Began working for XenonCloud GmbH & Co. KG', },
+  { year: 2017, text: 'Software Development Internship @provinzial'},
+  { year: 2018, text: 'Abitur in Maths and Computer Science. Started Studying CS in Clausthal', },
+  { year: 2019, text: 'Began working @xenoncloud', },
   { year: 2020, text: 'Projects with three big players in Engineering and Network Hardware', },
-  { year: 2021, text: 'Became CTO and Co-Founder at Nibyou.', },
-  { year: 2022, text: 'Worked as Software Developer at adesso SE, started working as Head of App Development at Audoora GmbH' }
+  { year: 2021, text: 'Became CTO and Co-Founder @nibyou', },
+  { year: 2022, text: 'Software Engineer @adesso, then @audoora' },
+  { year: 2023, text: 'Became Certified DPO @audoora' },
+  { year: 2024, text: 'Started Road-Bike Racing for Zinq Raceboys' },
+  { year: 2025, text: 'Return offer for Senior Software Engineer @adesso' },
 ];
