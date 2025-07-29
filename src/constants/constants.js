@@ -105,7 +105,7 @@ export const projects = [
     visit: "https://run-this-place.com",
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/rtp.jpg",
     position: ["Software Engineer (via adesso)"],
-    tags: ["NestJS", "TypeScript", "PostgreSQL", "GraphQL"]
+    tags: ["NestJS", "PostgreSQL", "GraphQL"]
   },
     {
         title: "Audoora Accounting",
@@ -113,15 +113,15 @@ export const projects = [
         visit: "https://audoora.de",
         image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/a-accounting.png",
         position: ["Software Engineer"],
-        tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "SEPA"]
+        tags: ["NestJS", "PostgreSQL", "Vue.js", "SEPA"]
     },
     {
         title: "Audoora E-Invoices",
-        description: 'Audoora E-Invoices is a customer-facing service in the Audoora Console that allows our customers to receive EU-mandated electronic invoices in Faktur-X/ZUGFeRD/EN-16931 formats and handles automatic invoice creation for out Group Purchasing Organisation partners.',
+        description: 'Audoora E-Invoices is a customer-facing service in the Audoora Console that allows our customers to receive EU-mandated electronic invoices in Faktur-X/ZUGFeRD/EN-16931 formats and handles automatic invoice creation for audoora\'s Group Purchasing Organisation partners.',
         visit: 'https://audoora.de',
         image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/a-invoices.png",
         position: ["Software Engineer"],
-        tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "EN-16931"]
+        tags: ["NestJS", "PostgreSQL", "Vue.js", "EN-16931"]
     },
   {
     title: "Audoora KPI-Dashboard",
@@ -129,7 +129,7 @@ export const projects = [
     visit: "https://audoora.de",
     image: "https://content.luca-kiebel.de/websites/luca-kiebel.de/projectimages/a-kpi.png",
     position: ["Software Engineer"],
-    tags: ["NestJS", "TypeScript", "PostgreSQL", "Vue.js", "ERP", "MQTT"]
+    tags: ["NestJS", "PostgreSQL", "Vue.js", "MQTT"]
   }
 ];
 
