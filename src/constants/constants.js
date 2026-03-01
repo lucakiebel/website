@@ -142,5 +142,5 @@ export const TimeLineData = [
   { year: 2022, text: 'Software Engineer @audoora' },
   { year: 2023, text: 'Became Certified DPO @audoora' },
   { year: 2024, text: 'Started Road-Bike Racing for RSV Münster' },
-  { year: 2025, text: 'Return offer for Senior Software Engineer @adesso' },
+  { year: 2025, text: 'Started work as Senior Software Engineer @adesso' },
 ];
