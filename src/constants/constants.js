@@ -139,8 +139,8 @@ export const TimeLineData = [
   { year: 2019, text: 'Began working @xenoncloud', },
   { year: 2020, text: 'Projects with three big players in Engineering and Network Hardware', },
   { year: 2021, text: 'Became CTO and Co-Founder @nibyou', },
-  { year: 2022, text: 'Software Engineer @adesso, then @audoora' },
+  { year: 2022, text: 'Software Engineer @audoora' },
   { year: 2023, text: 'Became Certified DPO @audoora' },
-  { year: 2024, text: 'Started Road-Bike Racing for Zinq Raceboys' },
+  { year: 2024, text: 'Started Road-Bike Racing for RSV Münster' },
   { year: 2025, text: 'Return offer for Senior Software Engineer @adesso' },
 ];
