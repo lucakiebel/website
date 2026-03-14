@@ -12,20 +12,14 @@ const Imprint = () => {
         <SectionDivider />
         <SectionText>
         <br />
-            Kiebel UG (haftungsbeschränkt)<br />
-            Represented by the Managing Director:<br />
             Luca Kiebel
         </SectionText>
-        <SectionSubText>
-            Legal Headquarters
-        </SectionSubText>
         <SectionText>
-        Jostesstraße 9<br />
-            48147 Münster<br />
+        Bruchfeldweg 12<br />
+            48161 Münster<br />
             Germany
         </SectionText>
         <SectionText>
-            Telephone: <LinkItem href="tel:004925192873030">+49-251-9287-303-0</LinkItem> <br />
             Email: <LinkItem href="mailto:domains@luca-kiebel.de">domains@luca-kiebel.de</LinkItem>
         </SectionText>
         <SectionText>
